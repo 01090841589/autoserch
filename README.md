@@ -1,7 +1,7 @@
 # AutoSearch
 
 자동차 검색 사이트
-
+source ~/anaconda3/etc/profile.d/conda.sh
 <table>
    <tr>
       <td>
