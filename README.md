@@ -103,7 +103,9 @@ pip install -r requirement.txt
 
 필요 패키지들이 설치된다.
 
+### 3-3 mysql 설치
 
+실행후에 setting.py와 sql을 연동
 
 ## 4. 자동차 학습파일 생성
 
